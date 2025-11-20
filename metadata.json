@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 毕航驰 - AI产品经理作品集",
+  "description": "一个高影响力、大胆的AI产品经理作品集，具有Gemini驱动的交互式聊天和未来主义用户界面。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
